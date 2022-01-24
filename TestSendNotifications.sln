@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSendNotifications", "TestSendNotifications\TestSendNotifications.csproj", "{814F3013-084F-47DA-9A28-DA7F83417731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.TestSendNotifications", "Test.TestSendNotifications\Test.TestSendNotifications.csproj", "{E0539FA0-14AE-4D6F-9795-E5FD95B544DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814F3013-084F-47DA-9A28-DA7F83417731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814F3013-084F-47DA-9A28-DA7F83417731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814F3013-084F-47DA-9A28-DA7F83417731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814F3013-084F-47DA-9A28-DA7F83417731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0539FA0-14AE-4D6F-9795-E5FD95B544DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0539FA0-14AE-4D6F-9795-E5FD95B544DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0539FA0-14AE-4D6F-9795-E5FD95B544DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0539FA0-14AE-4D6F-9795-E5FD95B544DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

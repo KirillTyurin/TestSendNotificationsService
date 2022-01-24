@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32346620_002D97c8_002D4a8a_002D96e9_002Dd13206b25645/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAddNotification" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/kirillturin/Desktop/projects/TestSendNotifications/TestSendNotifications/Test.TestSendNotifications" Presentation="&amp;lt;Test.TestSendNotifications&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ceec932b_002D1ffd_002D46e1_002Da836_002Dad14405bc205/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;Project Location="/Users/kirillturin/Desktop/projects/TestSendNotifications/TestSendNotifications/Test.TestSendNotifications" Presentation="&amp;lt;Test.TestSendNotifications&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::E0539FA0-14AE-4D6F-9795-E5FD95B544DF::net6.0::Test.TestSendNotifications.NotificationSender.TestNotificationSenderFacade.TestSendMethod&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc3984fe_002Df468_002D4034_002D9f26_002D28698d4c8e49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;Project Location="/Users/kirillturin/Desktop/projects/TestSendNotifications/TestSendNotifications/Test.TestSendNotifications" Presentation="&amp;lt;Test.TestSendNotifications&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::E0539FA0-14AE-4D6F-9795-E5FD95B544DF::net6.0::Test.TestSendNotifications.NotificationSender.TestNotificationSenderFacade.TestSendMethod&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
